@@ -1,25 +1,4 @@
-
-<h1 align="center">multi-task-NLP</h1>  
-<p align="center">
-    <a href='https://multi-task-nlp.readthedocs.io/en/latest/?badge=latest'>
-        <img src='https://readthedocs.org/projects/multi-task-nlp/badge/?version=latest' alt='Documentation Status' />
-    </a>
-    <a href="https://github.com/hellohaptik/multi-task-NLP/blob/master/LICENSE">
-        <img src="https://img.shields.io/github/license/hellohaptik/multi-task-NLP">
-    </a>
-    <a href="https://github.com/hellohaptik/multi-task-NLP/graphs/contributors">
-        <img src="https://img.shields.io/badge/contributors-3-yellow">
-    </a>
-    <a href="https://github.com/hellohaptik/multi-task-NLP/issues">
-        <img src="https://img.shields.io/github/issues/hellohaptik/multi-task-NLP?color=orange">
-    </a>
-</p>
-
-<p align="center">
-    <img src="docs/source/multi_task.png" width="500", height="550">
-</p> 
-
-multi_task_NLP is a utility toolkit enabling NLP developers to easily train and infer a single model for multiple tasks.
+ multi_task_NLP is a utility toolkit enabling NLP developers to easily train and infer a single model for multiple tasks.
 We support various data formats for majority of NLU tasks and multiple transformer-based encoders (eg. BERT, Distil-BERT, ALBERT, RoBERTa, XLNET etc.)
 
 For complete documentation for this library, please refer to [documentation](https://multi-task-nlp.readthedocs.io/en/latest/)
